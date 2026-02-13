@@ -15,7 +15,7 @@ This project predicts the selling price of used cars using Machine Learning mode
 ## 📊 Models Used
 
 * Linear Regression
-* Random Forest Regressor
+
 
 ## 📈 Model Performance
 
